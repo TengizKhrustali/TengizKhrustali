@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @TengizKhrustali
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning IOS & Android
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m @TengizKhrustali;
+- 👀 I am finance professional, transitioning into the world of software development. I’m Looking for a job as a junior developer/intern;
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript;
+- 💞️ I’m looking to achieve synthesis of my financial backgorund to the software development
+- 📫 You can reach me at tengizkhrustali@gmail.com
 
-<!---
-TengizKhrustali/TengizKhrustali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
